@@ -9,10 +9,10 @@ Full Stack Developer | Undergraduate at the University of Moratuwa Passionate ab
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [My\_porfolio](http://ishara-peiris.github.io/my_web/)
 * ✉️  You can contact me at [isharapeiris2001@gmail.com](mailto:isharapeiris2001@gmail.com)
-* 🚀  I'm currently working on [Digital Question Paper Management System](http://bitbucket.org/dqpms/firstrepo/)
-* 🧠  I'm learning React js, spring
+
+* 🧠  I'm learning React js, node js ,golang
 * 🤝  I'm open to collaborating on Full stack projects
-* ⚡  I'm secretly an angel... but don't tell anyone.
+
 
 ### Skills
 
